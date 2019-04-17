@@ -39,27 +39,27 @@
 }
 
 @font-face {
-    font-family: 'Libre Baskerville';
-    src: url('../fonts/librebaskerville/LibreBaskerville-Bold.woff2') format('woff2'),
-        url('../fonts/librebaskerville/LibreBaskerville-Bold.woff') format('woff');
+    font-family: 'Hind';
+    src: url('../fonts/hind/Hind-Light.woff2') format('woff2'),
+        url('../fonts/hind/Hind-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hind';
+    src: url('../fonts/hind/Hind-Bold.woff2') format('woff2'),
+        url('../fonts/hind/Hind-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Libre Baskerville';
-    src: url('../fonts/librebaskerville/LibreBaskerville-Regular.woff2') format('woff2'),
-        url('../fonts/librebaskerville/LibreBaskerville-Regular.woff') format('woff');
+    font-family: 'Hind';
+    src: url('../fonts/hind/Hind-Regular.woff2') format('woff2'),
+        url('../fonts/hind/Hind-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-}
-
-@font-face {
-    font-family: 'Libre Baskerville';
-    src: url('../fonts/librebaskerville/LibreBaskerville-Italic.woff2') format('woff2'),
-        url('../fonts/librebaskerville/LibreBaskerville-Italic.woff') format('woff');
-    font-weight: normal;
-    font-style: italic;
 }
 
 @font-face {
@@ -69,4 +69,3 @@
     font-weight: normal;
     font-style: normal;
 }
-
